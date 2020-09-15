@@ -1,0 +1,5 @@
+1. git clone -b run_time_terrors https://github.com/TechForumIndia/CodeMaster-v3.0.git
+			cd CodeMaster-v3.0\
+2. git add *
+3. git commit –m “Solution”
+4. git push
